@@ -1,0 +1,16 @@
+{
+  "name": "scooter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Scooter.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "test:report": "jest --coverage=true"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.5.2"
+  }
+}

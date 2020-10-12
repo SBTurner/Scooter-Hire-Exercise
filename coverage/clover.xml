@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1602492663500" clover="3.2.0">
+  <project timestamp="1602492663501" name="All files">
+    <metrics statements="18" coveredstatements="18" conditionals="2" coveredconditionals="2" methods="8" coveredmethods="8" elements="28" coveredelements="28" complexity="0" loc="18" ncloc="18" packages="1" files="3" classes="3"/>
+    <file name="ChargeStation.js" path="/Users/STE94/Documents/Bootcamp/Week_1/ScooterHire/ChargeStation.js">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="5" count="7" type="stmt"/>
+      <line num="6" count="7" type="stmt"/>
+      <line num="12" count="5" type="stmt"/>
+      <line num="14" count="5" type="stmt"/>
+      <line num="15" count="5" type="stmt"/>
+      <line num="16" count="5" type="stmt"/>
+      <line num="17" count="5" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+    </file>
+    <file name="Person.js" path="/Users/STE94/Documents/Bootcamp/Week_1/ScooterHire/Person.js">
+      <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <line num="3" count="5" type="stmt"/>
+      <line num="9" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="10" count="4" type="stmt"/>
+      <line num="11" count="4" type="stmt"/>
+      <line num="14" count="4" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+    </file>
+    <file name="Scooter.js" path="/Users/STE94/Documents/Bootcamp/Week_1/ScooterHire/Scooter.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="3" count="8" type="stmt"/>
+      <line num="4" count="8" type="stmt"/>
+      <line num="5" count="8" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
